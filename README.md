@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @bibekaryal86
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Java / Spring / Javascript / React / Redux / TypeScript
+- 🌱 I’m currently learning Advanced React / Redux / TypeScript / Webpack
+- 💞️ I’m looking to collaborate on anything interesting (subjective claim, I know)
+- 📫 How to reach me 
+     - https://www.linkedin.com/in/bibekaryal86/
+     - https://twitter.com/bibekaryal86
 
 <!---
 bibekaryal86/bibekaryal86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
