@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on anything interesting (subjective claim, I know)
 - 📫 How to reach me 
      - https://www.linkedin.com/in/bibekaryal86/
-     - https://twitter.com/bibekaryal86
 
 <!---
 bibekaryal86/bibekaryal86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
